@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7A02977D-5F56-4526-98E9-E2AA30292759}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EazyRemedy.TypeLibrary</RootNamespace>
+    <AssemblyName>EazyRemedy.TypeLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <IntermediateOutputPath>C:\Users\KHANYI~2\AppData\Local\Temp\vsE6C4.tmp\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <IntermediateOutputPath>C:\Users\KHANYI~2\AppData\Local\Temp\vsE6C4.tmp\Release\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Interface\IRemedy.cs" />
+    <Compile Include="Models\addNotes.cs" />
+    <Compile Include="Models\addReport.cs" />
+    <Compile Include="Models\CheckIn.cs" />
+    <Compile Include="Models\CheckOut.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ViewModels\Booking.cs" />
+    <Compile Include="ViewModels\CareWorker.cs" />
+    <Compile Include="ViewModels\GetPatient.cs" />
+    <Compile Include="ViewModels\GetProfile.cs" />
+    <Compile Include="ViewModels\GetUserID.cs" />
+    <Compile Include="ViewModels\uspBookings.cs" />
+    <Compile Include="ViewModels\uspCareActivity.cs" />
+    <Compile Include="ViewModels\uspCareReports.cs" />
+    <Compile Include="ViewModels\uspClientAddress.cs" />
+    <Compile Include="ViewModels\uspGetClient.cs" />
+    <Compile Include="ViewModels\uspGetSession.cs" />
+    <Compile Include="ViewModels\uspInvoice.cs" />
+    <Compile Include="ViewModels\uspSession.cs" />
+    <Compile Include="ViewModels\uspSessionByID.cs" />
+    <Compile Include="ViewModels\ViewCareReports.cs" />
+    <Compile Include="ViewModels\ViewPerson.cs" />
+    <Compile Include="ViewModels\ViewSchedule.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,14 @@
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\bin\Debug\EazyRemedy.DAL.dll
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\bin\Debug\EazyRemedy.DAL.pdb
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\bin\Debug\EazyRemedy.TypeLibrary.dll
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\bin\Debug\EazyRemedy.TypeLibrary.pdb
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\obj\Debug\EazyRemedy.DAL.csprojResolveAssemblyReference.cache
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\obj\Debug\EazyRemedy.DAL.dll
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\obj\Debug\EazyRemedy.DAL.pdb
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\bin\Debug\EazyRemedy.DAL.dll
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\bin\Debug\EazyRemedy.DAL.pdb
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\bin\Debug\EazyRemedy.TypeLibrary.dll
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\bin\Debug\EazyRemedy.TypeLibrary.pdb
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\obj\Debug\EazyRemedy.DAL.csprojResolveAssemblyReference.cache
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\obj\Debug\EazyRemedy.DAL.dll
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.DAL\obj\Debug\EazyRemedy.DAL.pdb

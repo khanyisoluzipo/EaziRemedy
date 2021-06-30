@@ -1,0 +1,10 @@
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\bin\Debug\EazyRemedy.TypeLibrary.dll
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\bin\Debug\EazyRemedy.TypeLibrary.pdb
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\obj\Debug\EazyRemedy.TypeLibrary.dll
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\obj\Debug\EazyRemedy.TypeLibrary.pdb
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\bin\Debug\EazyRemedy.TypeLibrary.dll
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\bin\Debug\EazyRemedy.TypeLibrary.pdb
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\obj\Debug\EazyRemedy.TypeLibrary.csprojResolveAssemblyReference.cache
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\obj\Debug\EazyRemedy.TypeLibrary.dll
+E:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\obj\Debug\EazyRemedy.TypeLibrary.pdb
+F:\4TH YEAR\EaziRemedy\Project\EazyRemedySite\EazyRemedy.TypeLibrary\obj\Debug\EazyRemedy.TypeLibrary.csprojResolveAssemblyReference.cache
